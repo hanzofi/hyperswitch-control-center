@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file. See [conven
 
 - - -
 
+## 2026.03.23.0
+
+### Features
+
+- FISERVCOMMERCEHUB payin connector ([#4427](https://github.com/juspay/hyperswitch-control-center/pull/4427)) ([`14751c7`](https://github.com/juspay/hyperswitch-control-center/commit/14751c72b1f2e295dcf42fd648b81a817adef1be))
+
+**Full Changelog:** [`2026.03.20.0...2026.03.23.0`](https://github.com/juspay/hyperswitch-control-center/compare/2026.03.20.0...2026.03.23.0)
+
+- - -
+
 ## 2026.03.20.0
 
 ### Features
