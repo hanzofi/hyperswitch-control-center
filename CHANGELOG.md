@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file. See [conven
 
 - - -
 
+## 2026.03.27.1
+
+### Features
+
+- NMI - googlepay and applepay pre decrypt flow ([#4602](https://github.com/juspay/hyperswitch-control-center/pull/4602)) ([`bbd98ab`](https://github.com/juspay/hyperswitch-control-center/commit/bbd98ab665d0d66cab816e9886fe0dd3f72b2668))
+
+**Full Changelog:** [`2026.03.27.0...2026.03.27.1`](https://github.com/juspay/hyperswitch-control-center/compare/2026.03.27.0...2026.03.27.1)
+
+- - -
+
 ## 2026.03.27.0
 
 ### Miscellaneous Tasks
